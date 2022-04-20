@@ -1,12 +1,10 @@
 ![header](https://github.com/Mercen-Lee/Hosting/blob/main/Nametag.svg?raw=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://github.com/Mercen-Lee)
-[![Mercen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercen-Lee)](https://github.com/Mercen-Lee)
+<div align = center>
 
-&nbsp;
-
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mercen's GitHub stats](https://github-profile-trophy.vercel.app/?username=Mercen-Lee)](https://github.com/Mercen-Lee)
-
+[<img width=52% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
+[<img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
+[<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
 &nbsp;
 
 ## 📊 Code

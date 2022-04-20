@@ -1,13 +1,14 @@
-![header](https://github.com/Mercen-Lee/Hosting/blob/main/Nametag.svg?raw=true)
-
 <div align = center>
 
+![header](https://github.com/Mercen-Lee/Hosting/blob/main/Nametag.svg?raw=true)  
+# 📊 Github Statistics
+  
 [<img width=52% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
 [<img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
 [<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
-&nbsp;
 
-## 📊 Code
+&nbsp;
+# 🖥️ Programming Stacks
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3schools.com/css/)
@@ -23,8 +24,7 @@
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 &nbsp;
-
-## 🖥️ Design
+# 📷 Designing Stacks
 [![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)](https://www.adobe.com/products/aftereffects)
 [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)](https://www.adobe.com/products/premierepro)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop)

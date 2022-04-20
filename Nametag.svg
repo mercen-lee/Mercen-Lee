@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 0 854 300">
+  <g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
+    <defs>
+      <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#2cd48e"/>
+        <stop offset="100%" stop-color="#3573c3"/>
+      </linearGradient>
+    </defs>
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z;M0 0L 0 245Q 213.5 260 427 240T 854 230L 854 0 Z;M0 0L 0 265Q 213.5 235 427 265T 854 230L 854 0 Z;M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z"/>
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-5s" values="M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z;M0 0L 0 245Q 213.5 260 427 240T 854 230L 854 0 Z;M0 0L 0 265Q 213.5 235 427 265T 854 230L 854 0 Z;M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z"/>
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z;M0 0L 0 250Q 213.5 220 427 220T 854 240L 854 0 Z;M0 0L 0 245Q 213.5 225 427 250T 854 265L 854 0 Z;M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z"/>
+    </path>
+  </g>
+  <svg version="1.1" class="logo" baseProfile="tiny" width="50" height="50" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" x="31%" y="33%" viewBox="0 0 100 100" xml:space="preserve">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4436.93 3420.06">
+      <defs>
+        <style>.d{fill:#fff;}</style>
+      </defs>
+      <g id="a"/>
+      <g id="b">
+        <g id="c">
+          <path class="d" d="M4436.93,1710.03l-508.94-524.29v-425.67C3928,340.3,3587.7,0,3167.92,0H1268.01C848.23,0,507.93,340.3,507.93,760.08v426.7L0,1710.03l507.93,523.25v426.7c0,419.78,340.3,760.08,760.08,760.08h1899.9c419.78,0,760.08-340.3,760.08-760.08v-425.67l508.94-524.29Z"/>
+        </g>
+      </g>
+    </svg>
+  </svg>
+  <text text-anchor="middle" alignment-baseline="middle" x="53%" y="43%" style="@import url(//fonts.googleapis.com/css?family=Lato:300:400); font-size: 50px; font-family: 'Lato', sans-serif; font-weight:300; fill:#ffffff;">Mercen Lee</text>
+</svg>

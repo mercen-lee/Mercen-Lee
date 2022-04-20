@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://github.com/Mercen-Lee/Hosting/blob/main/Nametag.svg?raw=true)  
+![header](https://github.com/Mercen-Lee/Mercen-Lee/blob/main/Nametag.svg?raw=true)  
 # 📊 Github Statistics
   
 [<img width=52% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)

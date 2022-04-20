@@ -1,4 +1,6 @@
 ![header](https://github.com/Mercen-Lee/Hosting/blob/main/Nametag.svg?raw=true)
+[![Mercen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercen-Lee&hide=issues,prs)](https://github.com/Mercen-Lee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact)](https://github.com/Mercen-Lee)
 ## 📊 Code
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://w3schools.com/html/)
@@ -13,7 +15,6 @@
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://raspberrypi.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
 ## 🖥️ Design
 [![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)](https://www.adobe.com/products/aftereffects)
 [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)](https://www.adobe.com/products/premierepro)

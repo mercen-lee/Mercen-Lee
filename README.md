@@ -1,6 +1,6 @@
 ![header](https://github.com/Mercen-Lee/Hosting/blob/main/Nametag.svg?raw=true)
 [![Mercen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercen-Lee&hide=issues,prs)](https://github.com/Mercen-Lee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact)](https://github.com/Mercen-Lee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee)](https://github.com/Mercen-Lee)
 ## 📊 Code
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://w3schools.com/html/)

@@ -3,8 +3,8 @@
 ![header](https://github.com/Mercen-Lee/Mercen-Lee/blob/main/Nametag.svg?raw=true)  
 # 📊 Github Statistics
   
-[<img width=52% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
-[<img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
+[<img width=41.25% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
+[<img width=41.25% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact">](https://github.com/Mercen-Lee)  
 [<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
 
 &nbsp;

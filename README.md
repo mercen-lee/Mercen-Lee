@@ -26,7 +26,7 @@
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://raspberrypi.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+<!--![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)-->
 
 &nbsp;
 # 📷 Designing Stacks

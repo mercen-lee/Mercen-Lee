@@ -3,8 +3,8 @@
 ![header](https://raw.githubusercontent.com/Mercen-Lee/Hosting/main/Mercen-Lee/Nametag.svg)
 # 📊 Github Statistics
   
-[<img width=45% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
-[<img width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact">](https://github.com/Mercen-Lee)  
+[<img width=50% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
+[<img width=32% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact&langs_count=30">](https://github.com/Mercen-Lee)  
 [<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
 
 &nbsp;
@@ -22,7 +22,7 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com/)
-[![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=sparkar&logoColor=white)](https://qt.io/)
+[![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=sparkar&logoColor=white)](https://sparkar.facebook.com/ar-studio/)
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://qt.io/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)

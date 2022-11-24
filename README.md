@@ -9,6 +9,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://linux.org/)
 &nbsp;
   
-[<img width=25% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
-[<img width=16% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact&langs_count=30">](https://github.com/Mercen-Lee)  
-[<img width=41.25% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
+[<img width=30% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
+[<img width=19.2% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact&langs_count=30">](https://github.com/Mercen-Lee)  
+[<img width=49.6% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  

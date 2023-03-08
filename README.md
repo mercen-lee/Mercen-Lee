@@ -1,14 +1,15 @@
 <div align = center>
 
-# 👋 Welcome to my Github
-[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
-[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://linux.org/)
+# Welcome to my Github 👋
+[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)](https://www.rust-lang.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://linux.org/)
 &nbsp;
-  
-[<img width=30% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee">](https://github.com/Mercen-Lee)
-[<img width=19.2% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact&langs_count=30">](https://github.com/Mercen-Lee)  
-[<img width=49.6% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee">](https://github.com/Mercen-Lee)  
+
+## Junior iOS Developer
+[<img width=37% src="https://github-readme-stats.vercel.app/api?username=Mercen-Lee&theme=nord">](https://github.com/Mercen-Lee)
+[<img width=22.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercen-Lee&layout=compact&langs_count=30&theme=nord">](https://github.com/Mercen-Lee)  
+[<img width=60% src="https://github-profile-trophy.vercel.app/?username=Mercen-Lee&theme=nord&rank=-C,-B">](https://github.com/Mercen-Lee)  

@@ -1,0 +1,31 @@
+name: Temporary Blender Runtime
+
+on:
+  push:
+    branches:
+      - ai-blender-runtime
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Download Blender 2.93.18 AppImage
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -L --fail --retry 5 --retry-delay 3 \
+            -o blender-2.93.18-x86_64.AppImage.zip \
+            https://github.com/Lethja/blender-appimage/releases/download/2026-07-22/blender-2.93.18-x86_64.AppImage.zip
+          echo "4bcd818e1a34fbb165d7ef8d1c7eca26a175897b4df3b642b37f5bfb9eae1f40  blender-2.93.18-x86_64.AppImage.zip" | sha256sum -c -
+      - name: Upload standalone Blender runtime
+        uses: actions/upload-artifact@v4
+        with:
+          name: blender-2.93.18-x86_64-appimage
+          path: blender-2.93.18-x86_64.AppImage.zip
+          compression-level: 0
+          retention-days: 1
+          if-no-files-found: error
